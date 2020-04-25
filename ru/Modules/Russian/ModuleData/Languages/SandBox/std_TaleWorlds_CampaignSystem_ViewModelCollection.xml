@@ -287,33 +287,33 @@
     <string id="ipLqVv1f" text="Вы не можете призвать королевский отряд в свою армию."/>
     <string id="nMcvafHY" text="Активно"/>
     <string id="Ra17aK4e" text="Столица: "/>
-    <string id="4Dd2xgPm" text="Weight"/>
-    <string id="6GSXsdeX" text="Speed"/>
-    <string id="8BlMRMiR" text="Horse Tier"/>
-    <string id="bAqDnkaT" text="Missile Speed"/>
+    <string id="4Dd2xgPm" text="Вес"/>
+    <string id="6GSXsdeX" text="Скорость"/>
+    <string id="8BlMRMiR" text="Уровень коня"/>
+    <string id="bAqDnkaT" text="Скорость выстрела"/>
     <string id="cnmRwV4s" text="Ammo Limit"/>
-    <string id="dWYm9GsC" text="Requires"/>
-    <string id="eHVq6yDa" text="Item Properties"/>
-    <string id="eIws123Z" text="Leg Armor"/>
-    <string id="HkfY3Ds5" text="Body Armor"/>
-    <string id="hn9TPqhK" text="Weapon Tier"/>
-    <string id="kftE5nvv" text="Horse Armor"/>
-    <string id="kx7q8ybD" text="Arm Armor"/>
-    <string id="lGWb26Lj" text="This hero is busy with a quest."/>
-    <string id="Mfbc4rQR" text="Charge Damage"/>
-    <string id="myMbtwXi" text="Morale Bonus"/>
-    <string id="O3dhjtOS" text="Head Armor"/>
-    <string id="rg7OuWS2" text="Maneuver"/>
-    <string id="s31DnnAf" text="Damage"/>
-    <string id="S9tmCkHz" text="This hero is clearing a common area"/>
-    <string id="sa2TQu1G" text="This hero is busy with an issue."/>
-    <string id="sqdzHOPe" text="Class"/>
-    <string id="twtbH1zv" text="Stack Amount"/>
-    <string id="US7UmBbt" text="Armor Tier"/>
-    <string id="XzggyCPW" text="This hero is busy."/>
-    <string id="ZcybPatO" text="Weapon Length"/>
-    <string id="ZUgoQ1Ws" text="Horse Type"/>
-    <string id="QSPrSsHv" text="No Saddle!"/>
-    <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver."/>
+    <string id="dWYm9GsC" text="Необходимо"/>
+    <string id="eHVq6yDa" text="Свойства предмета"/>
+    <string id="eIws123Z" text="Поножи"/>
+    <string id="HkfY3Ds5" text="Нательная броня"/>
+    <string id="hn9TPqhK" text="Уровень оружия"/>
+    <string id="kftE5nvv" text="Конный доспех"/>
+    <string id="kx7q8ybD" text="Броня на руки"/>
+    <string id="lGWb26Lj" text="Герой занят выполнением задания."/>
+    <string id="Mfbc4rQR" text="Урон Атаки"/>
+    <string id="myMbtwXi" text="Бонус морали"/>
+    <string id="O3dhjtOS" text="Броня на голову"/>
+    <string id="rg7OuWS2" text="Маневр"/>
+    <string id="s31DnnAf" text="Урон"/>
+    <string id="S9tmCkHz" text="Герой зачищает улицы."/>
+    <string id="sa2TQu1G" text="Герой занят своими делами."/>
+    <string id="sqdzHOPe" text="Класс"/>
+    <string id="twtbH1zv" text="Количество"/>
+    <string id="US7UmBbt" text="Уровень брони"/>
+    <string id="XzggyCPW" text="Герой занят."/>
+    <string id="ZcybPatO" text="Длина оружия"/>
+    <string id="ZUgoQ1Ws" text="Тип лошади"/>
+    <string id="QSPrSsHv" text="Нет седла!"/>
+    <string id="VzCoqt8D" text="Седло не экипировано. -10% скорость движения и управления на коне."/>
     </strings>
 </base>
