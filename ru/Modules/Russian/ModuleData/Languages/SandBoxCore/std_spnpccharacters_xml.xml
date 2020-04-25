@@ -169,7 +169,7 @@
     <string id="LXybWXde" text="Skolder Воин Братвы"/>
     <string id="Mcbjdntz" text="Jawwal Всадник На Верблюде "/>
     <string id="MDIuyBHP" text="Копейщик Кузаитского Ополчения"/>
-    <string id="Mgr6qv1j" text="НаемныйМечник"/>
+    <string id="Mgr6qv1j" text="Наемный Мечник"/>
     <string id="mrBbsiPN" text="Молодой Волк"/>
     <string id="muu5cofb" text="Горожанин"/>
     <string id="MVHawAEp" text="Скрытая Рука"/>
@@ -208,7 +208,7 @@
     <string id="QhNpvW0Y" text="Кузаитский Торгууд"/>
     <string id="QlVeZvbv" text="Асерайская Ветеранская Стража Каравана"/>
     <string id="qMYpZKWo" text="Принципы"/>
-    <string id="QNKfXvuA" text="Имперский Signifier"/>
+    <string id="QNKfXvuA" text="Имперский Сигнальщик"/>
     <string id="Qo2cc7bF" text="Скен"/>
     <string id="QvSmhaAV" text="Избранный Волк"/>
     <string id="R74i2pQz" text="Наемный Клинок"/>
@@ -303,8 +303,8 @@
     <string id="Zmajp2o1" text="Копейщик Стургийского Ополчения"/>
     <string id="ZRkceJx3" text="Судья"/>
     <string id="ZSU7sMYX" text="Кузаитский Дархан"/>
-    <string id="1gAasy1t" text="Lake Rat Veteran"/>
-    <string id="6j9iJMRr" text="Lake Rat Recruit"/>
-    <string id="BC5YGna3" text="Lake Rat Wrecker "/>
+    <string id="1gAasy1t" text="Ветеран Озерных Крыс"/>
+    <string id="6j9iJMRr" text="Рекрут Озерных Крыс"/>
+    <string id="BC5YGna3" text="Погромщик Озерных Крыс"/>
     </strings>
 </base>
